@@ -1,3 +1,4 @@
 class Dog 
-  .name=(dog_name)
+  
+  def 
   
